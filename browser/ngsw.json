@@ -1,0 +1,79 @@
+{
+  "configVersion": 1,
+  "timestamp": 1779545741127,
+  "index": "/card-gap-fill-fun/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/card-gap-fill-fun/favicon.ico",
+        "/card-gap-fill-fun/index.html",
+        "/card-gap-fill-fun/main-XKZCD4FQ.js",
+        "/card-gap-fill-fun/manifest.webmanifest",
+        "/card-gap-fill-fun/polyfills-5CFQRCPP.js",
+        "/card-gap-fill-fun/styles-LRSZHXVL.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/card-gap-fill-fun/assets/icons/icon-128x128.png",
+        "/card-gap-fill-fun/assets/icons/icon-144x144.png",
+        "/card-gap-fill-fun/assets/icons/icon-152x152.png",
+        "/card-gap-fill-fun/assets/icons/icon-192x192.png",
+        "/card-gap-fill-fun/assets/icons/icon-384x384.png",
+        "/card-gap-fill-fun/assets/icons/icon-512x512.png",
+        "/card-gap-fill-fun/assets/icons/icon-72x72.png",
+        "/card-gap-fill-fun/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/card-gap-fill-fun/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/card-gap-fill-fun/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/card-gap-fill-fun/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/card-gap-fill-fun/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/card-gap-fill-fun/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/card-gap-fill-fun/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/card-gap-fill-fun/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/card-gap-fill-fun/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/card-gap-fill-fun/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/card-gap-fill-fun/index.html": "0d2defebafc5d2ff6bdbe0d0281bbe86da56fbea",
+    "/card-gap-fill-fun/main-XKZCD4FQ.js": "895d5b9945a014807ac78c146495efac1e8ec3fe",
+    "/card-gap-fill-fun/manifest.webmanifest": "14317ad0352abeb598848525bfe7627d0d66ff85",
+    "/card-gap-fill-fun/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/card-gap-fill-fun/styles-LRSZHXVL.css": "bc134e6433789e2f73c69b366037c2f92f1742ea"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
